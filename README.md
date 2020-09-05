@@ -1,4 +1,4 @@
-# angular-pipe-order-by
+# order-by
 This can be used to order the array object.
 
 ### Usage
